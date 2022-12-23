@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container1 {
+  display: flex;
+  justify-content: center;
+}
+.card1 {
+  width: 600px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.img3 {
+  width: 30px;
+  height: 30px;
+  margin-top: 110px;
+}
+
+.img4 {
+  width: 30px;
+  height: 30px;
+  margin-top: 110px;
+  margin-left: 40px;
+}
+.img5 {
+  width: 30px;
+  height: 30px;
+  margin-top: 110px;
+  margin-left: 40px;
+}
+.img6 {
+  width: 25px;
+  height: 25px;
+  margin-left: 300px;
+}
+.img1 {
+  width: 600px;
+  height: 350px;
+  margin-top: 15px;
+  margin-left: 100px;
+}
+.img2 {
+  width: 20px;
+  height: 20px;
+}
+@font-face {
+  font-family: "Rubik-VeriableFont";
+  src: url(./fonts/Rubik-VariableFont_wght.ttf) format("truetype");
+}
+.p1 {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 30px;
+  font-family: "Rubik-VeriableFont";
+}
+.p2 {
+  font-size: 25px;
+  color: #d1d1d1;
+  font-family: "Rubik-VeriableFont";
+}
+.b {
+  font-size: 20px;
+  margin-left: 10px;
+  color: #d1d1d1;
+  font-family: "Rubik-VeriableFont";
+}

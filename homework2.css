@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  border: 5px solid black;
+  width: 500px;
+  height: 690px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border-radius: 20px;
+  padding: 5px 5px 5px 5px;
+}
+.container2 {
+  display: flex;
+}
+.header1 {
+  border: 5px solid rgb(5, 175, 5);
+  margin: 3px 3px 3px 3px;
+  width: 480px;
+  height: 90px;
+  border-radius: 10px;
+}
+.nav1 {
+  border: 5px solid rgb(216, 29, 76);
+  margin: 3px 3px 3px 3px;
+  width: 480px;
+  height: 50px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.article1 {
+  border: 5px solid rgb(29, 147, 216);
+  margin: 3px 3px 3px 3px;
+  width: 300px;
+  height: 440px;
+  border-radius: 10px;
+}
+.header2 {
+  border: 5px solid rgb(5, 175, 5);
+  margin: 3px 3px 3px 3px;
+  width: 285px;
+  height: 50px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.section1 {
+  border: 5px solid rgb(141, 29, 216);
+  margin: 185px 3px 3px 3px;
+  width: 285px;
+  height: 50px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.section2 {
+  border: 5px solid rgb(141, 29, 216);
+  margin: 3px 3px 3px 3px;
+  width: 285px;
+  height: 50px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.footer1 {
+  border: 5px solid rgb(216, 213, 29);
+  margin: 3px 3px 3px 3px;
+  width: 285px;
+  border-radius: 10px;
+}
+.div1 {
+  border: 5px solid rgb(216, 172, 29);
+  margin: 3px 3px 3px 3px;
+  width: 165px;
+  height: 440px;
+  border-radius: 10px;
+}
+.aside1 {
+  border: 5px solid rgb(29, 216, 207);
+  margin: 3px 3px 3px 3px;
+  width: 150px;
+  height: 192px;
+  border-radius: 10px;
+}
+.footer2 {
+  border: 5px solid rgb(216, 213, 29);
+  margin: 3px 3px 3px 3px;
+  width: 480px;
+  height: 50px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
